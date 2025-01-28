@@ -1,0 +1,3 @@
+http://vrp.atd-lab.inf.puc-rio.br/media/com_vrp/instances/B/B-n31-k5.vrp
+http://vrp.atd-lab.inf.puc-rio.br/media/com_vrp/instances/B/B-n34-k5.vrp
+http://vrp.atd-lab.inf.puc-rio.br/media/com_vrp/instances/B/B-n35-k5.vrp
